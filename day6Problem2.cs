@@ -1,4 +1,4 @@
-ublic class DataManager
+/*public class DataManager
 {
     private List<string> _data;
  

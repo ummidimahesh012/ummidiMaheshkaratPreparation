@@ -1,4 +1,4 @@
-public class Logger
+/*public class Logger
 {
     private static readonly Lazy<Logger> lazyInstance = new Lazy<Logger>(() => new Logger());
  
