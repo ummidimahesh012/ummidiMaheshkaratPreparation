@@ -38,5 +38,5 @@ public class SafeCollectionModification
         Console.WriteLine("\n\n-- End Collection Modification --\n");
         Console.ReadKey();
     }
-}
+}*/
  

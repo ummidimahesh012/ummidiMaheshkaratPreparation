@@ -50,4 +50,4 @@ class Program
  
         await processor.ProcessFilesAsync(files);
     }
-}
+}*/

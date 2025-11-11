@@ -41,4 +41,4 @@ class Program
         var value = ConfigurationManager.Instance.GetValue("Url");
         Console.WriteLine(value); // Loads config on first use
     }
-}
+}*/

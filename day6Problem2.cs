@@ -30,4 +30,4 @@ public void Data_ShouldBeLoadedLazily()
     var data = manager.Data;
     // Should be initialized after property access
     Assert.IsNotNull(data);
-}
+}*/

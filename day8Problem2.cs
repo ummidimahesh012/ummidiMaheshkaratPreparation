@@ -42,4 +42,4 @@ class Program
         var analyzer = new ProductAnalyzer();
         analyzer.Analyze(products);
     }
-}
+}*/

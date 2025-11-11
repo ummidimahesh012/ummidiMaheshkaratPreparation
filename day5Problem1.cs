@@ -34,4 +34,4 @@ class ArrayPrinter
             Console.WriteLine($"Error: Index {index} is out of range.");
         }
     }
-}
+}*/
