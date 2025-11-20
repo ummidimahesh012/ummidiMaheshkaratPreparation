@@ -1,4 +1,4 @@
-Interface
+/*Interface
 Interface basic 
  We create interface using interface keyword. Just like classes interface also contains properties methods , delegates or events , but only declerations and no implementation 
 
@@ -142,7 +142,7 @@ A class can inherit from multiple interfaces the same time , where as a class ca
 
 Abstract class members can have access modifiers where as interface members cannot have access modifiers 
 
- Abstract class members private by default 
+ Abstract class members private by default */
 
 
 
